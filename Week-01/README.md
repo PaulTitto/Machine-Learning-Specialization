@@ -5,3 +5,7 @@ Welcome to the Machine Learning Specialization! You're joining millions of other
 * Define supervised learning
 * Define unsupervised learning
 * Write and run Python code in Jupyter Notebooks
+* Define a regression model
+* Implement and visualize a cost function
+* Implement gradient descent
+* Optimize a regression model using gradient descent
