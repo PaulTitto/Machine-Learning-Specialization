@@ -5,6 +5,8 @@ Welcome to the Machine Learning Specialization! You're joining millions of other
 
 20 videos
 Graded: Practice quiz: Supervised vs unsupervised learning
+Graded: Practice quiz: Regression
+Graded: Practice quiz: Train the model with gradient descent
 
 > Learning Objectives
 * Define machine learning
